@@ -1,6 +1,6 @@
 :root {
     --main-color: #c0392b;
-    --body-bg: #181616;
+    --body-bg: #382121;
     --box-bg: #221f1f;
     --text-color: #ffffff;
 
@@ -59,7 +59,7 @@ img {
     left: 0;
     width: 100%;
     z-index: 99;
-    background-color: #000000;
+    background-color: #462727;
 }
 
 .nav {
